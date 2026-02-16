@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/25336668/README.md)
+
 # HR Analytics Dashboard (Power BI)
 
 ## 📊 Project Overview
