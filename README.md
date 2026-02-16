@@ -70,7 +70,7 @@ Attrition Status
 
 ## 📷 Dashboard Preview
 
-(https://github.com/AdadaPavan/HR_ANALYTICS_DASHBOARD_POWERBI_PROJECT/blob/main/HR%20ANALYTICS%20POWERBI%20PROJ.JPG)
+!Demo Picture(https://github.com/AdadaPavan/HR_ANALYTICS_DASHBOARD_POWERBI_PROJECT/blob/main/HR%20ANALYTICS%20POWERBI%20PROJ.JPG)
 
 ------------------------------------------------------------------------
 
